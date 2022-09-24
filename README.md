@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h3>Jeya Suriyaa here &nbsp; <img src="https://media.kulfyapp.com/1C8Z1Y/1C8Z1Y-shared.gif" width="40" height="40" /> </h3>
-I am a CS Graduate . Currently exploring Web development. 
-🌱 I’m currently learning JavaScript
+I am a CS Graduate . <br>
+Currently exploring Web development. <br>
+🌱 I’m currently learning JavaScript<br>
 <!--
 **Jeya-Suriyaa/Jeya-Suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
