@@ -1,4 +1,6 @@
 ### Hi there 👋
+Jeya Suriyaa here , I am a CS Graduate . Currently exploring Web development. 
+🌱 I’m currently learning JavaScript
 
 <!--
 **Jeya-Suriyaa/Jeya-Suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
