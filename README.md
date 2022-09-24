@@ -1,5 +1,9 @@
 ### Hi there 👋
-Jeya Suriyaa here , I am a CS Graduate . Currently exploring Web development. 
+Jeya Suriyaa here  
+I am a CS Graduate . Currently exploring Web development. 
+
+<img align="right" src="https://media.kulfyapp.com/1C8Z1Y/1C8Z1Y-shared.gif" width="40" height="40" />
+
 🌱 I’m currently learning JavaScript
 
 <!--
@@ -15,4 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
+
 -->
