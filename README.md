@@ -3,6 +3,7 @@
 I am a CS Graduate . <br>
 Currently exploring Web development. <br>
 🌱 I’m currently learning JavaScript<br>
+I do programmming in Java<br>
 <!--
 **Jeya-Suriyaa/Jeya-Suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
