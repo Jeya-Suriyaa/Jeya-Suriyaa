@@ -4,7 +4,7 @@ I am a CS Graduate . <br>
 Currently exploring Web development. <br>
 🌱 I’m currently learning JavaScript<br>
 I do programmming in Java<br>
-
+<img src="https://github.com/Jeya-Suriyaa/Jeya-Suriyaa/blob/main/JavaScript_logo.png" width="40" >
 <!--
 **Jeya-Suriyaa/Jeya-Suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
