@@ -1,11 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-I am a CS Student . <br>
-Currently exploring Web development. <br>
-🌱 I’m currently learning JavaScript<br>
-I do programmming in Java<br>
-<div style="width:100%;back-ground-color:blue;">JS</div>
-<img src="https://github.com/Jeya-Suriyaa/Jeya-Suriyaa/blob/main/JavaScript_logo.png" height="200" >
+<img src="https://github.com/Jeya-Suriyaa/Jeya-Suriyaa/blob/main/banner.png"  >
+<p align ="center" > I am a CS Student . Currently exploring Web development. </p>
+
+
 <!--
 **Jeya-Suriyaa/Jeya-Suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
