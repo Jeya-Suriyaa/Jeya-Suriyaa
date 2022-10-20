@@ -1,10 +1,10 @@
 ### Hi there 👋
-<h3>Jeya Suriyaa here &nbsp; <img src="https://media.kulfyapp.com/1C8Z1Y/1C8Z1Y-shared.gif" width="40" height="40" /> </h3>
-I am a CS Graduate . <br>
+
+I am a CS Student . <br>
 Currently exploring Web development. <br>
 🌱 I’m currently learning JavaScript<br>
 I do programmming in Java<br>
-<img src="https://github.com/Jeya-Suriyaa/Jeya-Suriyaa/blob/main/JavaScript_logo.png" width="40" >
+<img src="https://github.com/Jeya-Suriyaa/Jeya-Suriyaa/blob/main/JavaScript_logo.png"  >
 <!--
 **Jeya-Suriyaa/Jeya-Suriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
-
+<h3>Jeya Suriyaa here &nbsp; <img src="https://media.kulfyapp.com/1C8Z1Y/1C8Z1Y-shared.gif" width="40" height="40" /> </h3>
 
 -->
