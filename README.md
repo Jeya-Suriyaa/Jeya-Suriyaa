@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<img src="https://github.com/Jeya-Suriyaa/Jeya-Suriyaa/blob/main/git%20banner%20js%202.png"  >
+<img src="https://1drv.ms/i/s!AgK4MtvBBpk8hhfKuefNX6ZHinqA?e=tbcET7"  >
 <p align ="center" > I am a CS Student . Currently exploring Web development and front-end. </p>
 
 
