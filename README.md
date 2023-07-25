@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <img src="https://onedrive.live.com/embed?resid=3C9906C1DB32B802%21791&authkey=%21AIL4s4gZd4QqNM0&width=1374&height=460" width="1374" height="360" />
-<p align ="center" > I am a CS Student . Currently exploring Web development and front-end. </p>
+<p align ="center" > I am a CS Student . Currently exploring Web development and System Design. </p>
 
 
 <!--
